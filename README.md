@@ -31,4 +31,4 @@ products, time, customer segments, payment methods, and cities.
 - `dashboard_Sales_Data.png` – Dashboard screenshot
 
 ## Dashboard Preview
-![Dashboard Preview]([dashboard_Sales_Data.png](https://github.com/muminyasincse/PowerBI_Sales_Data/blob/main/dashboard_Sales_Data.jpg))
+![Dashboard Preview]((https://github.com/muminyasincse/PowerBI_Sales_Data/blob/main/dashboard_Sales_Data.jpg))
